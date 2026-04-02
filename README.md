@@ -60,7 +60,7 @@ Product_Name
 Product_Category
 Product_Price
 Restaurant_ID
-Average_Rating
+Average_Product_Rating
 Stock_Availability
 
 Dim_Date:
