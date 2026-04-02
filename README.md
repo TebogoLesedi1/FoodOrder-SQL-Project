@@ -107,8 +107,11 @@ Order trends by time, location, or channel
 **Clone the repository:**
 git-Bash
 git clone <https://github.com/TebogoLesedi1/FoodOrder-SQL-Project>
+
 Open the .sql scripts in SQL Server Management Studio.
+
 Execute scripts to create the database, tables, and load the dummy data.
+
 Begin exploring the database using SQL queries for analysis and reporting.
 
 Example Queries
@@ -125,7 +128,7 @@ Integrate with visualization tools (Power BI, Tableau) for dashboards.
 Use the database for machine learning experiments (e.g., predicting delivery times, customer churn, or order volume).
 
 **Notes**
-All data is dummy data, but closely mirrors real-world ordering behaviors.
+This data is dummy data, but closely mirrors real-world ordering behaviors.
 This project demonstrates database design, star schema modeling, and SQL-based data analysis.
 
 **Author**
