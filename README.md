@@ -91,6 +91,7 @@ Total_Deliveries
 
 
 ****Features****
+
 Realistic dummy data reflecting real-world food ordering operations.
 Structured for advanced SQL queries and analytical workflows.
 
@@ -102,9 +103,10 @@ Order trends by time, location, or channel
 
 
 ****Getting Started****
+
 **Clone the repository:**
 git-Bash
-git clone <your-repo-link>
+git clone <https://github.com/TebogoLesedi1/FoodOrder-SQL-Project>
 Open the .sql scripts in SQL Server Management Studio.
 Execute scripts to create the database, tables, and load the dummy data.
 Begin exploring the database using SQL queries for analysis and reporting.
@@ -116,6 +118,7 @@ Analyze customer spending and order frequency over time.
 Track delivery performance against estimated delivery times.
 
 ****Future Work****
+
 Expand the dataset with additional orders, customers, and products.
 Add stored procedures for common analytical queries.
 Integrate with visualization tools (Power BI, Tableau) for dashboards.
